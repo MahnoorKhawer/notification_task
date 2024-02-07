@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857060472703",
+    "project_id": "update-device-notification",
+    "storage_bucket": "update-device-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857060472703:android:0b8d20f6890384926d4c4a",
+        "android_client_info": {
+          "package_name": "com.example.update_device_nitifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsptmHgB4s3NZL6NDUGvPm7GG5WoEie5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
